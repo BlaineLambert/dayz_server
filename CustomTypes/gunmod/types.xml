@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="SCWS_TIMBERWOLF">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier7" />
+        <value user="Tier34" />
+        <category name="lantia" />
+        <category name="weapons" />
+        <tag name="military" />
+    </type>
+    <type name="SCWS_TIMBERWOLF_Magazine">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>1</quantmin>
+        <quantmax>5</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_AmmoBox_338">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Ammo_338">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>2</quantmin>
+        <quantmax>8</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Uni_Suppressor_Tan">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Uni_Suppressor_Black">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Uni_Suppressor_Legion">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Uni_Suppressor_Legion_Black">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_SPR">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_SPR_Magazine">
+        <nominal>10</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_Ammo_300BLK">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>2</quantmin>
+        <quantmax>8</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+    <type name="SCWS_AmmoBox_300BLK">
+        <nominal>12</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <value user="Tier23" />
+    	<category name="rifles" />
+	    <tag name="military" />
+    </type>
+</types>
